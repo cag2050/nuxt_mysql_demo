@@ -2,6 +2,8 @@
 
 > My premium Nuxt.js project
 
+* nuxt 项目设置缩进为4个空格：https://segmentfault.com/a/1190000019230150#articleHeader1
+
 ## Build Setup
 
 ``` bash
